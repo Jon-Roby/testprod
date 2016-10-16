@@ -10,6 +10,9 @@
     "start": "babel-node devServer.js",
     "lint": "eslint src"
   },
+  "engines": {
+    "node": "4.4.4"
+  },
   "author": "Jon Roby",
   "devDependencies": {
     "autoprefixer": "^6.4.0",
