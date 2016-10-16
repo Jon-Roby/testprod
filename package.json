@@ -11,7 +11,7 @@
     "lint": "eslint src"
   },
   "engines": {
-    "node": "4.4.4"
+    "node": ">=6.3.1"
   },
   "author": "Jon Roby",
   "devDependencies": {
@@ -60,9 +60,7 @@
     "redux-logger": "^2.6.1",
     "redux-thunk": "^2.1.0",
     "slug": "^0.9.1",
+    "webpack": "^1.13.2",
     "xml2js": "^0.4.17"
-  },
-  "engines": {
-    "node": ">=6.3.1"
   }
 }
